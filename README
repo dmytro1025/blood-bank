@@ -2,15 +2,6 @@
 
 HemoCell is a web application built with ReactJS, Node.js, MySQL, and Tailwind CSS. It is designed to facilitate blood donations, requests, and blood drives, as well as donations for the organization.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Solutions](#solutions)
-- [Developer](#developer)
-- [Instructions to Run](#instructions-to-run)
-- [Admin Dashboard](#admin-dashboard)
-
 ## Features
 
 HemoCell provides the following features:
